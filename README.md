@@ -4,8 +4,8 @@ The Grips for Joy-Con - Single are a pair of grips that attach to a pair of Joy-
 <img src="Photos/Grips-for-Joy-Con-Single.jpg" width="500" alt="Picture of Grips-for-Joy-Con-single.">
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/grips-joy-con-single/)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/grip-joy-con-single/)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/grip-joy-con-single/)
 
 
 ## How to Obtain a Grip for Single Joy-Con
