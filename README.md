@@ -30,7 +30,7 @@ The [Makers Checklist](/Documentation/Grip_Joy_Con_Single_Maker_Checklist_V1.0.p
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Grip_Single_Joy_Con_BOM.xlsx) lists all of the parts and components required to build the <Device-Name>. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The [Bill of Materials](/Documentation/Grip_Joy_Con_Single_BOM.xlsx) lists all of the parts and components required to build the <Device-Name>. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
 
 
 ### 3. Print the 3D Printable components
@@ -39,7 +39,7 @@ All of the files and individual print files can be in the [/Build_Files/3D_Print
 
 ### 4. Assemble the Grip for Single Joy Cons
 
-Reference the [Assembly Guide](/Documentation/Grip_Joy_Con_Single_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/Grip_Joy_Con_Single_Assembly_Guide_V1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
